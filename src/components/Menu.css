@@ -8,6 +8,13 @@
     box-shadow: 0 4px 8px rgb(14, 223, 160);
     
   }
+
+  button{
+    background-color: rgb(201, 129, 36);
+    color:wheat;
+    border-radius: 10px;
+    
+  }
   
 
   

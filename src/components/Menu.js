@@ -12,7 +12,7 @@ export default function Menu(){
                 return(
                 <div key={index}>
                     <h1>{item.name}</h1>
-                    <p>{item.description}</p>
+                    <p>{item.description}    <button>  Add  </button></p>
                     <h1>${item.price}</h1><hr></hr>
                     </div>
                 )
